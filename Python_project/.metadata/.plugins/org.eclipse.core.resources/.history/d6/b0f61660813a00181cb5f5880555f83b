@@ -1,0 +1,18 @@
+
+1     print 'printing correct sequence'
+2     dipanjan=2
+3     dipanjan=dipanjan-2
+4     if dipanjan == 0:
+5     ~~~~print 'dipanjan0'
+6     else:
+7     ~~~~dipanjan=1
+8     ~~~~print dipanjan
+9
+10
+11
+12    ~~~~
+13
+14    extra = [2,3,4]
+15    for x in extra:
+16    ~~~~y=x+1;
+17    ~~~~print y

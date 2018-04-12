@@ -1,0 +1,21 @@
+httplib
+urllib
+https://www.testingexcellence.com/10-best-open-source-web-testing-tool/
+github commands
+
+
+Projects:
+
+Automate Opencart
+
+Library: 
+1. ssh to server, using pxssh but simple to use name like ssh server and report logs on failure, pass handle.
+2. use handle to verify existence of file.
+3. Use handle to restart apache
+4. Use handle to open file, edit and add a text, save and close.
+5. Use handle to open a file and search for a text pattern
+6. open local file to add log of test runs and save.
+7. initial config verification.
+8. test suite test file(test case for run selection)
+9. Send request using liburl
+10. Automate 
